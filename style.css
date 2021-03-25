@@ -1,0 +1,23 @@
+*{
+  background-color: #000;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.nameh1{
+  color: #fff;
+  font-family: Verdana;
+}
+
+.lista{
+  color: #fff;
+}
+
+.checks{
+  color: #fff;
+}
+
+.sec{
+  color: #fff;
+}
